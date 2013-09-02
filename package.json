@@ -1,0 +1,13 @@
+{
+  "name": "reBlog",
+  "version": "0.0.0",
+  "description": "Blogging engine using rethinkdb",
+  "main": "index.js",
+  "author": "Lucas A. Dohring <lucas@dohring.tk>",
+  "license": "EUPL-1.1",
+  "dependencies": {
+    "rethinkdb": "~1.8.0-0",
+    "domino": "~1.0.12",
+    "async": "~0.2.9"
+  }
+}

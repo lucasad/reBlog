@@ -1,0 +1,6 @@
+---
+database: dbname
+name: My epic blog
+language: en
+
+bind: 8888
